@@ -1,32 +1,31 @@
 Начало
 ===============
 
-Installing the Unity Editor is required for exporting custom content into the game. Any 2019.4 LTS version should be compatible. [View Download Links](https://unity3d.com/unity/qa/lts-releases?version=2019.4)
+Установка редактора Unity необходимо для экспорта в игру. Любая версия 2019.4 LTS должна подойти. [View Download Links](https://unity3d.com/unity/qa/lts-releases?version=2019.4)
 
-Once Unity is installed a project can be created to house custom content. At this point it is recommended to import Unturned's provided source packages:
+Когда Unity установлен, можно приступать к созданию проекта для содержания кастомного контента. Вообще, рекомендуется импортировать исходники из самого Unturned:
 
-1. Inside Unity open the Assets > Import Package > Custom Package... wizard.
-1. Find the Unturned installation directory.
-3. Navigate to the Bundles/Sources directory.
-4. Import the Project.unitypackage, and optionally the ExampleAssets.unitypackage.
+1. В самом Unity откройте Assets > Import Package > Custom Package... откроется мастер выбора.
+1. Найдите папку с игрой.
+3. Открывайте папку Bundles/Sources.
+4. Импортируйте Project.unitypackage, и по желанию ExampleAssets.unitypackage.
 
 Project.unitypackage
 --------------------
 
-This package contains the barebones required to export custom content:
+В этом наборе лежит основа для экспорта кастомного контента:
 
 - [Asset Bundling Tools](AssetBundles.md)
-- Default Project Settings
+- Базовые настройки проекта
 - [(Optional) Mod Hooks](ModHooks.md)
 
 ExampleAssets.unitypackage
 --------------------------
 
-This package contains vanilla content examples, and several useful prefabs:
+В этом наборе лежат образцы ванильного контента, и несколько важных префабов:
 
-- CoreMasterBundle directory has at least one example of each piece of vanilla content.
-- Animations directory has all of the vanilla item animations for re-use.
-- Assets/Resources/Characters/Preview.prefab is helpful for previewing clothes.
+- Директория CoreMasterBundle имеет хотя бы один образец каждого ванильного контента.
+- Директория Animations имеет все ванильные анимации для свободного использования.
+- Assets/Resources/Characters/Preview.prefab полезен для предпросмотра одежды.
 
-Note that custom content should NOT be placed into the CoreMasterBundle, instead create a separate directory.
-
+Следует отметить, что кастомные контент НЕ СЛЕДУЕТ помещать в CoreMasterBundle, вместо этого создайте отдельную папку.
