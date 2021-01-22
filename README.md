@@ -8,7 +8,7 @@
 
 * [Начало](Начало.md)
 * [Экспортирование Бандлов Ассетов](БандлыАссетов.md)
-* [Character Mesh Replacement](CharacterMeshReplacement.md)
+* [Character Mesh Replacement](ЗаменаМоделиИгрока.md)
 * [Upgrading from Unity 2017 LTS to 2018 LTS](Unity2018.md)
 * [Upgrading from Unity 2018 LTS to 2019 LTS](Unity2019.md)
 * [Animation](Animation.md)
