@@ -9,7 +9,7 @@
 * [Начало](Начало.md)
 * [Экспортирование Бандлов Ассетов](БандлыАссетов.md)
 * [Замена Модели Игрока](ЗаменаМоделиИгрока.md)
-* [Upgrading from Unity 2017 LTS to 2018 LTS](Unity2018.md)
+* [Переход с Unity 2017 LTS до 2018 LTS](Unity2018.md)
 * [Upgrading from Unity 2018 LTS to 2019 LTS](Unity2019.md)
 * [Animation](Animation.md)
 * [Mod Hooks](ModHooks.md)
