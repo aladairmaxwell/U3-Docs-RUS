@@ -33,4 +33,4 @@
 
 Linus 32-бит и MacOS 32-бит были убраны в угоду 64-бит версиям. Сервера, которые всё ещё пользуются устаревшим 32-bit Linux, должны обновиться до выделенного 64-бит Linux сервера.
 
-Headless server files have been removed from the player Linux depot, and are instead only in the dedicated server Linux depot. Windows headless mode is now supported in 2018 LTS, and is enabled for the Windows dedicated server depot.
+Файлы безвладельческого сервера были убраны от игрока на Linux, и теперь только имеются на выделенном сервере Linux. Безвладельческий режим Windows теперь поддерживает 2018 LTS, и доступен на выделенном сервере Windows.
