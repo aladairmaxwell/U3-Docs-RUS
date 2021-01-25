@@ -10,7 +10,7 @@
 * [Экспортирование Бандлов Ассетов](БандлыАссетов.md)
 * [Замена Модели Игрока](ЗаменаМоделиИгрока.md)
 * [Переход с Unity 2017 LTS до 2018 LTS](Unity2018.md)
-* [Upgrading from Unity 2018 LTS to 2019 LTS](Unity2019.md)
+* [Переход с Unity 2018 LTS до 2019 LTS](Unity2019.md)
 * [Animation](Animation.md)
 * [Mod Hooks](ModHooks.md)
 * [Asset Validation](AssetValidation.md)
